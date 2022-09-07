@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "759252607240",
+    "project_id": "petasistanfinal",
+    "storage_bucket": "petasistanfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759252607240:android:872f02a42cb5ea06d2ccbd",
+        "android_client_info": {
+          "package_name": "com.example.petasistan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759252607240-qt1acdcr100abnvj1urjc8erdjsgife1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.petasistan",
+            "certificate_hash": "0d6a687e5c5c4a3b8f4ce9f8dd7b5105d325e31e"
+          }
+        },
+        {
+          "client_id": "759252607240-fo0foaasa0ugah9ieosdni5vbmfbt6ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs2fyhzGKzrZ4y5tMXdOz9So1WJdpKfTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759252607240-fo0foaasa0ugah9ieosdni5vbmfbt6ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

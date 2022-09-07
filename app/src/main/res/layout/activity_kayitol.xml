@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D3CEDF"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    tools:context=".girisyap_Activity">
+
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="220dp"
+        android:src="@drawable/girisdog"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#9CB4CC"
+        android:text="Ailemize Hoşgeldiniz"
+        android:layout_marginLeft="65dp"
+        android:textSize="30dp"
+        android:textStyle="normal"
+        android:layout_marginTop="25dp"/>
+
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:background="#F9F3EE"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginTop="30dp"
+        android:paddingLeft="10dp"
+        android:layout_marginLeft="25dp"
+        android:hint="Kullanıcı Adı:"
+        android:textColorHint="#9CB4CC"
+
+        />
+
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:background="#F9F3EE"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginTop="15dp"
+        android:paddingLeft="10dp"
+        android:layout_marginLeft="25dp"
+        android:hint="e-mail:"
+        android:textColorHint="#9CB4CC"
+        />
+
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:background="#F9F3EE"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginTop="15dp"
+        android:paddingLeft="10dp"
+        android:layout_marginLeft="25dp"
+        android:hint="Şifre:"
+        android:textColorHint="#9CB4CC"
+        />
+
+    <Button
+        android:layout_width="300dp"
+        android:id="@+id/kayitmenubutton"
+        android:layout_height="50dp"
+        android:backgroundTint="#9CB4CC"
+        android:layout_marginLeft="55dp"
+        android:layout_marginTop="25dp"
+        android:text="KAYDOL"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="#F9F3EE" />
+
+
+</LinearLayout>

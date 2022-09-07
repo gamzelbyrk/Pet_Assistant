@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.petasistan">
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the "MyLocation" functionality.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/square_icon"
+        android:label="Pet Asistan"
+        android:roundIcon="@drawable/circle_icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PetAsistan">
+        <activity
+            android:name=".chronometer_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".kronometre_activity"
+            android:exported="false" />
+        <activity
+            android:name=".Clicker_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".petim_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Alarm_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Pofile_List_item"
+            android:exported="false" />
+        <activity
+            android:name=".HashPassword"
+            android:exported="false" />
+        <activity
+            android:name=".User"
+            android:exported="false" />
+        <activity
+            android:name=".MaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".petreg_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ragdoll_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".himalayan_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".rex_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".minilop_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".hollandacuce_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ginepig_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".chinchilla_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".aslanbas_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".tavsan_cins_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".cornish_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".sfenks_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".norvec_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".british_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".reg_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".log_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".giris_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".chow_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".cocker_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".bulldog_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".affen_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".beagle_Activity"
+            android:exported="false" />
+        <activity android:name=".ilan_Activity" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".ereglivet_konum_Activity"
+            android:label="@string/title_activity_ereglivet_konum" />
+        <activity
+            android:name=".ayvet_konum_Activity"
+            android:label="@string/title_activity_ayvet_konum" />
+        <activity android:name=".kedi_cins_Activity" />
+        <activity android:name=".petkayit_Activity" />
+        <activity
+            android:name=".karadenizvet_konum_Activity"
+            android:label="@string/title_activity_karadenizvet_konum" />
+        <activity android:name=".veteriner_Activity" />
+        <activity android:name=".akita_Activity" />
+        <activity android:name=".kopek_cins_Activity" />
+        <activity android:name=".bilgiler_Activity" />
+        <activity android:name=".menu_Activity" />
+        <activity android:name=".kayitol_Activity" />
+        <activity android:name=".girisyap_Activity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

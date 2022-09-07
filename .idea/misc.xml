@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/drawable/bacround_gradient.xml" value="0.196" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/drawable/ic_whatshot_white_24dp.xml" value="0.27" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_affen.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_akita.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_alarm.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_aslanbas.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_beagle.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_bilgiler.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_british.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_bulldog.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_chinchilla.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_chow.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_chronometer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_clicker.xml" value="0.3625" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_cocker.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_cornish.xml" value="0.3484375" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_ginepig.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_giris.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_girisyap.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_himalayan.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_hollandacuce.xml" value="0.3625" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_ilan.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_jyton_deneme.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_kayitol.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_kedi_cins.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_kopek_cins.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_kronometre.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_log.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_ma.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_main.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_minilop.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_norvec.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_petim.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_petkayit.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_petreg.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_profile.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_ragdoll.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_reg.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_rex.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_sfenks.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_tavsan_cins.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/activity_user.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Win10/Desktop/PetAsistan/app/src/main/res/layout/pofile_list_item.xml" value="0.18802083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

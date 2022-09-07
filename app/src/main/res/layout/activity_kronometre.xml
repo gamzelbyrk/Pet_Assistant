@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#BAABDA"
+    tools:context=".kronometre_activity">
+
+
+    <TextView
+        android:id="@+id/textkro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#f3e5f5"
+        android:text="0"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="50sp"
+        android:textStyle="bold"
+
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="191dp"
+        tools:layout_editor_absoluteY="149dp" />
+
+    <Button
+        android:onClick="Basla"
+        android:id="@+id/krobasla"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#A273F6"
+        android:text="Başla"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="69dp"
+        tools:layout_editor_absoluteY="429dp" />
+
+    <Button
+        android:onClick="Durdur"
+        android:id="@+id/krobitir"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bitir"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="256dp"
+        tools:layout_editor_absoluteY="429dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

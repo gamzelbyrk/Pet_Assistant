@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D3CEDF"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    tools:context=".petkayit_Activity">
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/PetFotoKaydet"
+        android:layout_width="121dp"
+        android:layout_height="133dp"
+        android:layout_marginLeft="55dp"
+        android:layout_marginTop="40dp"
+        android:backgroundTint="#9CB4CC"
+        android:text="Fotoğraf Seç"
+        android:textColor="#F9F3EE"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+
+    <EditText
+        android:id="@+id/pet_email"
+        android:layout_width="320dp"
+        android:layout_height="45dp"
+        android:layout_marginLeft="34dp"
+        android:layout_marginTop="10dp"
+        android:background="#F9F3EE"
+        android:hint="Sahip e-mail:"
+        android:paddingLeft="10dp"
+        android:textColor="@color/black"
+        android:textColorHint="#9CB4CC"
+        android:textStyle="bold"
+
+        />
+
+    <EditText
+        android:id="@+id/pet_sifre"
+        android:layout_width="320dp"
+        android:layout_height="45dp"
+        android:layout_marginLeft="34dp"
+        android:layout_marginTop="10dp"
+        android:background="#F9F3EE"
+        android:hint="Sahip Şifre:"
+        android:inputType="textPassword"
+        android:paddingLeft="10dp"
+        android:textColor="@color/black"
+        android:textColorHint="#9CB4CC"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/petkayit_ad"
+        android:layout_width="320dp"
+        android:layout_height="45dp"
+        android:background="#F9F3EE"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="10dp"
+        android:layout_gravity="center"
+        android:hint="Ad:"
+        android:textColorHint="#9CB4CC"
+
+        />
+
+
+
+    <EditText
+        android:id="@+id/petkayit_tur"
+        android:layout_width="320dp"
+        android:layout_gravity="center"
+        android:layout_height="45dp"
+        android:background="#F9F3EE"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="10dp"
+
+        android:hint="Tür:"
+        android:textColorHint="#9CB4CC"
+
+        />
+
+
+
+    <EditText
+        android:id="@+id/petkayit_cins"
+        android:layout_width="320dp"
+        android:layout_height="45dp"
+        android:background="#F9F3EE"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="10dp"
+        android:layout_gravity="center"
+        android:hint="Cins:"
+        android:textColorHint="#9CB4CC"
+
+        />
+
+
+
+    <EditText
+        android:id="@+id/petkayit_tarih"
+        android:layout_width="320dp"
+        android:layout_height="45dp"
+        android:background="#F9F3EE"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="10dp"
+        android:layout_gravity="center"
+        android:hint="Tarih:"
+        android:textColorHint="#9CB4CC"
+
+        />
+
+
+
+    <EditText
+        android:id="@+id/petkayit_yas"
+        android:layout_width="320dp"
+        android:layout_height="45dp"
+        android:background="#F9F3EE"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="10dp"
+        android:layout_gravity="center"
+        android:hint="Yaş:"
+        android:textColorHint="#9CB4CC"
+
+        />
+
+
+
+
+
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:onClick="PetKaydet"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:backgroundTint="#9CB4CC"
+        android:layout_marginLeft="55dp"
+        android:layout_marginTop="40dp"
+        android:text="PETİMİ KAyDET"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="#F9F3EE" />
+
+
+
+
+
+
+
+</LinearLayout>
